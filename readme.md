@@ -5,7 +5,7 @@ Web scraping using python and other languages
 
 ## Movie list from Hidden Brain
 
-Get the movie name list ans release date
+Get the movie name list and release date
 
 [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain/archive)
 
